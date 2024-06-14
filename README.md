@@ -3,7 +3,7 @@
 Ce projet utilise un microcontrôleur Arduino connecté à un écran OLED pour afficher les prix de différentes cryptomonnaies en temps réel. Les données des cryptomonnaies sont récupérées à partir de l'API de CoinGecko. Un bouton est utilisé pour changer la cryptomonnaie affichée sur l'écran.
 
 ### Matériel Nécessaire
-- Arduino (compatible avec MicroPython)
+- Rasberry Pi Pico 
 - Écran OLED SSD1306
 - Bouton poussoir
 - Connexion Wi-Fi
